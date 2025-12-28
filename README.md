@@ -9,11 +9,11 @@
 
 ### 🚀 About Me
 
-- 🌍 I'm a **Front-End Developer** based in **Cairo, Egypt**[cite: 4, 5].
-- 💻 Focused on building fast, responsive, and maintainable web applications[cite: 5, 39].
-- 🎓 Bachelor of Accounting | **Zagazig University**[cite: 9, 10].
-- 📜 **Front-End Design and Development Diploma** from MEC Academy[cite: 12].
-- 🧠 I prioritize writing **Clean Code** and enhancing user experience[cite: 6, 37].
+- 🌍 I'm a **Front-End Developer** based in **Cairo, Egypt**.
+- 💻 Focused on building fast, responsive, and maintainable web applications.
+- 🎓 Bachelor of Accounting | **Zagazig University**.
+- 📜 **Front-End Design and Development Diploma** from MEC Academy.
+- 🧠 I prioritize writing **Clean Code** and enhancing user experience.
 
 ---
 
@@ -26,7 +26,7 @@
 </div>
 
 <p align="center">
-  <b>Other Technologies:</b> RESTful APIs, Axios, Swiper.js, JSON Server[cite: 29, 31, 32].
+  <b>Other Technologies:</b> RESTful APIs, Axios, Swiper.js, JSON Server.
 </p>
 
 
